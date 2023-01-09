@@ -1,0 +1,15 @@
+C:\Users\d.xia2\Downloads\C# Quiz\bin\Debug\net7.0\C# Quiz.exe
+C:\Users\d.xia2\Downloads\C# Quiz\bin\Debug\net7.0\C# Quiz.deps.json
+C:\Users\d.xia2\Downloads\C# Quiz\bin\Debug\net7.0\C# Quiz.runtimeconfig.json
+C:\Users\d.xia2\Downloads\C# Quiz\bin\Debug\net7.0\C# Quiz.dll
+C:\Users\d.xia2\Downloads\C# Quiz\bin\Debug\net7.0\C# Quiz.pdb
+C:\Users\d.xia2\Downloads\C# Quiz\obj\Debug\net7.0\C# Quiz.csproj.AssemblyReference.cache
+C:\Users\d.xia2\Downloads\C# Quiz\obj\Debug\net7.0\C# Quiz.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\d.xia2\Downloads\C# Quiz\obj\Debug\net7.0\C# Quiz.AssemblyInfoInputs.cache
+C:\Users\d.xia2\Downloads\C# Quiz\obj\Debug\net7.0\C# Quiz.AssemblyInfo.cs
+C:\Users\d.xia2\Downloads\C# Quiz\obj\Debug\net7.0\C# Quiz.csproj.CoreCompileInputs.cache
+C:\Users\d.xia2\Downloads\C# Quiz\obj\Debug\net7.0\C# Quiz.dll
+C:\Users\d.xia2\Downloads\C# Quiz\obj\Debug\net7.0\refint\C# Quiz.dll
+C:\Users\d.xia2\Downloads\C# Quiz\obj\Debug\net7.0\C# Quiz.pdb
+C:\Users\d.xia2\Downloads\C# Quiz\obj\Debug\net7.0\C# Quiz.genruntimeconfig.cache
+C:\Users\d.xia2\Downloads\C# Quiz\obj\Debug\net7.0\ref\C# Quiz.dll
