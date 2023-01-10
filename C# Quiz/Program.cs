@@ -1,6 +1,6 @@
 ﻿using System;
 
-namespace Distance_Calculator_c_
+namespace DiceRoll
 {
     class Question{
         public static int totalAnsCorrect = 0;
